@@ -10,9 +10,8 @@ const horhorik= {
     FavouriteLanguage: "Javascript/Typescript",
     age: 16,
     mail: selambenhorhorik@gmail.com,
-    c#: ½78,
-    python: %30,
-    
+    address: world,
+    gender: male
     
 }; //I'm a Epic Object, UwU
 ```
