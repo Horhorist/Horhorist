@@ -6,16 +6,14 @@ Thanks for visiting my github profile. Have a great day ahead!~
 <h2 align="center"> ✨ About Me ✨</h2>
 
 ```js
-const Sudhan = {
+const horhorik= {
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 77,
-    OpenedPullRequests: 55,
-    TotalCommits: 7420,
-    Stars: 1623,
-    Repositories: {
-       Created: 96,
-       Contributed: 26
-    },
+    age: 16,
+    mail: selambenhorhorik@gmail.com,
+    c#: ½78,
+    python: %30,
+    
+    
 }; //I'm a Epic Object, UwU
 ```
   
