@@ -9,7 +9,7 @@ Thanks for visiting my github profile. Have a great day ahead!~
 const horhorik= {
     FavouriteLanguage: "Javascript/Typescript",
     age: 16,
-    mail: selambenhorhorik@gmail.com,
+    mail: "selambenhorhorik@gmail.com",
     address: world,
     gender: male
     
