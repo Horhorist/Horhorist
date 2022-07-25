@@ -30,6 +30,8 @@ const horhorik= {
     <img src="https://github-readme-stats.vercel.app/api?username=horhorist&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
   </p>
 </details>
+![](https://komarev.com/ghpvc/?username=horhorist&label=PROFILE+VIEWS)
+
   
 <!-- Last updated on Sat Jul 23 2022 06:20:45 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 23th July 2022 using magic</i> ✨
