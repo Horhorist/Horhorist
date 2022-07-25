@@ -5,7 +5,7 @@ Thanks for visiting my github profile. Have a great day ahead!~
 ![horhorik](https://i.hizliresim.com/ajthe1p.jpg)
   
 <h2 align="center"> ✨ About Me ✨</h2>
-![](https://count.getloli.com/get/@horhorist.github.readme)
+![horhorik](https://count.getloli.com/get/@horhorist.github.readme)
 ```js
 const horhorik= {
     FavouriteLanguage: "Javascript/Typescript",
