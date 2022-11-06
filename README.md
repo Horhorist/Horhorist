@@ -11,7 +11,7 @@ Thanks for visiting my github profile. Have a great day ahead!~
 
 ```js
 const horhorik= {
-    FavouriteLanguage: "Javascript/Typescript",
+    FavouriteLanguage: "C++,Python,Java,PHP",
     age: "16",
     mail: "selambenhorhorik@gmail.com",
     address: "world",
