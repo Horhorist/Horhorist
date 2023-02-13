@@ -1,6 +1,6 @@
 ## Hi there 👋 <img align="right" src="https://i.hizliresim.com/r767e0k.png" width="200" />
  
-<img align="left" src="https://i.hizliresim.com/sqmn3m5.png" widht="500"
+<img align="left" src="https://i.hizliresim.com/sqmn3m5.png" widht="500" />
 <h2 align="center"> ✨ About Me ✨</h2>
 
 ![horhorik](https://count.getloli.com/get/@horhorist.github.readme)
