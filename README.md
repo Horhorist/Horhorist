@@ -1,6 +1,6 @@
 ## Hi there 👋 <img align="right" src="https://i.hizliresim.com/r767e0k.png" width="200" />
  
-<img align="left" src="https://i.hizliresim.com/sqmn3m5.png" widht="300" />
+![image](https://user-images.githubusercontent.com/109848153/218551365-c7689092-3c47-44d7-85a0-f707bb817b61.png)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zghivn7qqy363vqueshfziqedy&cover_image=true&theme=default&show_offline=true&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
