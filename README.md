@@ -1,7 +1,6 @@
 ## Hi there 👋 <img align="right" src="https://i.hizliresim.com/r767e0k.png" width="200" />
-I'm **horhorik**, An developer from somewhere in the earth. I like to code web applications, hack tools and ai :) I have worked on many projects in my past, Some of my open 
+![image](https://user-images.githubusercontent.com/109848153/218466325-5da502fa-2cff-47be-ba97-aa8e3491f0b7.png)
 
-Thanks for visiting my github profile. Have a great day ahead!~
 ![horhorik](https://i.hizliresim.com/ajthe1p.jpg)
 
 <h2 align="center"> ✨ About Me ✨</h2>
