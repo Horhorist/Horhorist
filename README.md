@@ -2,6 +2,8 @@
  
 <img align="left" src="https://i.hizliresim.com/sqmn3m5.png" widht="300" />
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/viewuid=31zghivn7qqy363vqueshfziqedy&cover_image=true&theme=default&show_offline=true&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+
 <h2 align="center"> ✨ About Me ✨</h2>
 
 ![horhorik](https://count.getloli.com/get/@horhorist.github.readme)
