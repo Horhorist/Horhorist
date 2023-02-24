@@ -6,7 +6,7 @@
 ```
 
 
-<img src="https://i.hizliresim.com/r767e0k.png" align="left" alt="horhorik.php.png" width="250" height="250">
+<img src="https://i.hizliresim.com/r767e0k.png" align="left" alt="horhorik.php.png" width="200" height="200">
 
 ```py
 horhorist@github
