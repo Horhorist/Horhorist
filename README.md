@@ -16,16 +16,16 @@ class Meta(type):
 class Social(metaclass=Meta):
     twitter     : str = "horhorist"
     spotify     : str = "hoihorik"
-    instagram     : str = "iamhornik"
-    mastodon     : str = "horhorist"
+    instagram   : str = "iamhornik"
+    mastodon    : str = "horhorist"
     
     class Bio(metaclass=Meta):
     name        : str = "horhorist"
     designation : str = "Hacker, software engineer, ai dev."
     company     : str = "horhorist"
-    age        : str = "17"
-    website        : str = "horhorist.netlify.com"
-    mastodon_server: stre = "kevrosk.social"
+    age         : str = "17"
+    website     : str = "horhorist.netlify.com"
+    mstdnServer : str = "kevrosk.social"
     
 class Stack(metaclass=Meta):
     languages   : Tuple[str, ...] = ("Python", "Go", "JavaScript", "Java", "C++", "c#")
