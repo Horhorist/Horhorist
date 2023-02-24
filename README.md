@@ -11,8 +11,8 @@
 horhorist@github
 ----------------
        OS  :  kali linux
-       Web : node.js, react.js, php, django.
-       ai : python, c++
+       Web : node.js, react.js, php, django
+       Ai : python, c++
        MyFavoriteLanguage: python, c++
        Name: Horhorist
        Age: 17
