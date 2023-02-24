@@ -1,8 +1,8 @@
-<img align="right" src="https://i.hizliresim.com/r767e0k.png" width="200" />
+<img align="right" src="https://i.hizliresim.com/8juoutv.jpg" width="200" />
 
 
 ```bash
-> neofetch
+> nmap -Pn -sS horhorist.netlify.com
 ```
 
 
