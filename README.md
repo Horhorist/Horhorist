@@ -5,7 +5,6 @@
 ```
 
 
-<img src="https://i.hizliresim.com/r767e0k.png" align="left" alt="horhorik.php.png" width="200" height="200">
 
 ```python
 from dataclasses import dataclass
