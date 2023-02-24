@@ -1,4 +1,4 @@
-<img align="right" src="https://i.hizliresim.com/8juoutv.jpg" width="200" height="200"/>
+<img align="right" src="https://i.hizliresim.com/n1r0il5.png" width="200" height="200"/>
 
 
 ```bash
