@@ -1,4 +1,3 @@
-<img align="right" src="https://i.hizliresim.com/n1r0il5.png" width="200" height="200"/>
 
 ```bash
 > nmap -Pn -sS horhorist.netlify.com
