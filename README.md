@@ -25,7 +25,6 @@ class Social(metaclass=Meta):
     company     : str = "horhorist"
     age         : str = "17"
     website     : str = "horhorist.netlify.com"
-    mstdnServer : str = "kevrosk.social"
     
 class Stack(metaclass=Meta):
     languages   : Tuple[str, ...] = ("Python", "Go", "JavaScript", "Java", "C++", "c#")
