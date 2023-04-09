@@ -1,3 +1,8 @@
+💻 **Things I love**
+- Python <img src="https://upload.wikimedia.org/wikipedia/ru/4/4d/Wojak.png" width="30"> 
+- Backend Development <img src="https://helios-i.mashable.com/imagery/articles/04i1KeWXNed98aQakEZjeOs/hero-image.fill.size_1200x1200.v1623362896.jpg" width="30"> 
+- Machine Learning <img src="https://media.tenor.com/2roX3uxz_68AAAAM/cat-space.gif" width="30"> 
+- Data Science <img src="https://media0.giphy.com/media/QjSoXOQIcEXBu/200w.gif?cid=6c09b952k3t7cy2pbr7egsayzjkyt980z0nnpurzys0eeqiw&rid=200w.gif&ct=g" width="30"> 
 
 ```bash
 > nmap -Pn -sS horhorist.netlify.com
