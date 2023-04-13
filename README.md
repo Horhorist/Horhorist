@@ -1,4 +1,4 @@
-<img src="https://helios-i.mashable.com/imagery/articles/04i1KeWXNed98aQakEZjeOs/hero-image.fill.size_1200x1200.v1623362896.jpg" width="250" align="right"> 
+<img src="https://i.hizliresim.com/cv6zapa.jpg" width="250" align="right"> 
 
 💻 **Things I love**
 - Python 
