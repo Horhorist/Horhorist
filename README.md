@@ -20,10 +20,8 @@ class Meta(type):
         return dataclass(unsafe_hash=True, frozen=True)(new_cls)
 
 class Social(metaclass=Meta):
-    twitter     : str = "horhorist"
-    spotify     : str = "hoihorik"
+    spotify     : str = "horhorik"
     instagram   : str = "iamhornik"
-    mastodon    : str = "horhorist"
     
     class Bio(metaclass=Meta):
     name        : str = "horhorist"
@@ -37,9 +35,7 @@ class Stack(metaclass=Meta):
     databases   : Tuple[str, ...] = ("MySQL", "Mongo")
     ongoing     : Tuple[str, ...] = ("Django")
 ```
-<p align="left">
-  <a href="https://horhorist.netlify.com">horhorist</a>
-</p>
+
 
 
        
