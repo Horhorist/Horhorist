@@ -1,4 +1,5 @@
 <img src="https://helios-i.mashable.com/imagery/articles/04i1KeWXNed98aQakEZjeOs/hero-image.fill.size_1200x1200.v1623362896.jpg" width="250" style="float: left"> 
+
 💻 **Things I love**
 - Python 
 - Backend Development 
