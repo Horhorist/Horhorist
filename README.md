@@ -38,7 +38,7 @@ class Stack(metaclass=Meta):
     ongoing     : Tuple[str, ...] = ("Django")
 ```
 <p align="left">
-  <a href="https://horhorist.netlify.com"></a>
+  <a href="https://horhorist.netlify.com">horhorist</a>
 </p>
 
 
