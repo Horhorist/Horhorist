@@ -41,8 +41,6 @@ class Stack(metaclass=Meta):
   <a href="https://horhorist.netlify.com"></a>
 </p>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3t9jjbZP22SQmRMa4C0puE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-       
 
        
 
