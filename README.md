@@ -1,4 +1,4 @@
-<img src="https://i.hizliresim.com/cv6zapa.jpg" width="350" align="right"> 
+<img src="https://i.hizliresim.com/cv6zapa.jpg" width="300" align="right"> 
 
 💻 **Things I love**
 - Python 
