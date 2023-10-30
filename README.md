@@ -1,4 +1,3 @@
-<img src="https://i.hizliresim.com/qsgdd1b.gif" width="250" align="right"> 
 
 💻 **Things I love**
 - Python 
