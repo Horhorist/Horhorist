@@ -1,14 +1,7 @@
 
 💻 **Things I love**
 - Python 
-- Backend Development 
-- Machine Learning 
-
-```bash
-> nmap -Pn -sS horhorist.netlify.com
-```
-
-
+- Backend Development
 
 ```python
 from dataclasses import dataclass
@@ -20,18 +13,19 @@ class Meta(type):
 
 class Social(metaclass=Meta):
     spotify     : str = "horhorik"
-    instagram   : str = "iamhornik"
+    instagram   : str = "horhorikk"
+    tirsik.net  : str = "horhorik"
     
     class Bio(metaclass=Meta):
     name        : str = "horhorist"
-    designation : str = "Hacker, software engineer, ai dev."
+    designation : str = "a student fond of software"
     company     : str = "horhorist"
     age         : str = "17"
-    website     : str = "horhorist.netlify.com"
+    website     : str = "https://www.tirsik.net/niviskar.php?trskvn=1394301618&m=kiye"
     
 class Stack(metaclass=Meta):
-    languages   : Tuple[str, ...] = ("Python", "Go", "JavaScript", "Java", "C++", "c#")
-    databases   : Tuple[str, ...] = ("MySQL", "Mongo")
+    languages   : Tuple[str, ...] = ("Python", "Go", "JavaScript", "ruby", "C++", "ruby on rails")
+    databases   : Tuple[str, ...] = ("Mongo")
     ongoing     : Tuple[str, ...] = ("Django")
 ```
 
