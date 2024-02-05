@@ -7,11 +7,11 @@ class Meta(type):
         return dataclass(unsafe_hash=True, frozen=True)(new_cls)
 
 class Social(metaclass=Meta):
-    spotify     : str = "horhorik"
+    spotify     : str = "horhorîk"
     tirsik.net  : str = "horhorik"
     
     class Bio(metaclass=Meta):
-    name        : str = "horhorist"
+    name        : str = "horhorik"
     designation : str = "a student fond of software"
     age         : str = "17"
     website     : str = "https://www.tirsik.net/niviskar.php?trskvn=1394301618&m=kiye"
