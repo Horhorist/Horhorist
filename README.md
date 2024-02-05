@@ -1,8 +1,3 @@
-
-💻 **Things I love**
-- Python 
-- Backend Development
-
 ```python
 from dataclasses import dataclass
 
@@ -22,7 +17,7 @@ class Social(metaclass=Meta):
     website     : str = "https://www.tirsik.net/niviskar.php?trskvn=1394301618&m=kiye"
     
 class Stack(metaclass=Meta):
-    languages   : Tuple[str, ...] = ("Python", "ruby")
+    languages   : Tuple[str, ...] = ("Python", "Ruby", "Javascript)
     databases   : Tuple[str, ...] = ("Mongo")
     ongoing     : Tuple[str, ...] = ("Django", "ruby on rails")
 ```
